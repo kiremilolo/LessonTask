@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\bin\Debug\netcoreapp3.1\ArraySelaheddin.exe
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\bin\Debug\netcoreapp3.1\ArraySelaheddin.deps.json
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\bin\Debug\netcoreapp3.1\ArraySelaheddin.runtimeconfig.json
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\bin\Debug\netcoreapp3.1\ArraySelaheddin.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\bin\Debug\netcoreapp3.1\ArraySelaheddin.dll
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\bin\Debug\netcoreapp3.1\ArraySelaheddin.pdb
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\obj\Debug\netcoreapp3.1\ArraySelaheddin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\obj\Debug\netcoreapp3.1\ArraySelaheddin.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\obj\Debug\netcoreapp3.1\ArraySelaheddin.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\obj\Debug\netcoreapp3.1\ArraySelaheddin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\obj\Debug\netcoreapp3.1\ArraySelaheddin.dll
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\obj\Debug\netcoreapp3.1\ArraySelaheddin.pdb
+C:\Users\Lenovo\source\repos\C# intro\ArraySelaheddin\obj\Debug\netcoreapp3.1\ArraySelaheddin.genruntimeconfig.cache
